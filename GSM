@@ -1,0 +1,9 @@
+The main idea of this project is to detect harmful gases present in air and let the user to move in a safe path.
+
+Step 1: Connecting mq 135 and gsm module to arduino
+
+Step 2: Copy the code from GSM_module.ino (Replace the value of x woth your phone number)
+
+Step 3: Change the value of R0 from AIR_MONITOR.ino
+
+Step 4: Check the value of CO2 by dumping the code into ARDUINO
